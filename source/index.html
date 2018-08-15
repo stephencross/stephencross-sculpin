@@ -1,0 +1,43 @@
+---
+layout: default
+title: Home
+generator: pagination
+pagination:
+    max_per_page: 5
+use:
+    - posts
+---
+<h1 class="mt-4">Welcome</h1>
+<p>This is the place I occasionally post content, and more often test techology. &nbsp;Explore what's here today, no promises, it may not be here tomorrow or will change so dramtically it's unrecognizable.  They say this is not a great strategy for building a 'personal brand' :)</p>
+<hr>
+{% for post in page.pagination.items %}
+<div class="card mb-4">
+    <img class="card-img-top" src="{{ post.list_image }}" alt="{{ post.list_image_alt }}">
+    <div class="card-body">
+        <h2 class="card-title">{{ post.title }}</h2>
+        <p class="card-text">{{  post.blocks.content[:400]|striptags('<b>')|raw }}&#8230; </p>
+        <a href="{{ site.url }}{{ post.url }}" class="btn btn-primary">Read More &rarr;</a>
+    </div>
+    <div class="card-footer text-muted">
+        {{ post.date|date('M dS, Y') }}
+    </div>
+</div>
+{% endfor %}
+
+<!-- Pagination -->
+{% if page.pagination.previous_page or page.pagination.next_page %}
+<ul class="pagination justify-content-center mb-4">
+    {% if page.pagination.next_page %}
+    <li class="page-item">
+        <a class="page-link" href="{{ site.url }}{{ page.pagination.next_page.url }}">&larr; Older</a>
+    </li>
+    {% endif %}
+
+    {% if page.pagination.previous_page %}
+    <li class="page-item">
+        <a class="page-link" href="{{ site.url }}{{ page.pagination.previous_page.url }}">Newer &rarr;</a>
+    </li>
+
+    {% endif %}
+</ul>
+{% endif %}
