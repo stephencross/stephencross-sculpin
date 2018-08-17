@@ -121,5 +121,9 @@ Check back for updates!
 - [Sculin.io](https://sculpin.io/)
 - [Static Sites with Sculpin](https://www.youtube.com/watch?v=VHl3LRuRc7U&t=445s)
 
+## Updates
 
+8/16/18 - Added SSL.  It's pretty straight forward to add SSL following this [community post on Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-16-04) for Let's Encrypt.
+
+8/17/18 - Added Disqus for commenting.  Sculpin provides this capability.  
 
