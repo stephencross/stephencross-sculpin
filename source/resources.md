@@ -5,7 +5,7 @@ title: Resources
 ---
 # Resources
 
-## My Presentations
+## Presentations
 
 #### UAT and Behat - Lightening Talk
 9/4/2018 @ Boston Drupal Group
