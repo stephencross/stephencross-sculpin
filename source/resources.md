@@ -7,9 +7,17 @@ title: Resources
 
 ## Presentations
 
+### From User Acceptance Testing to Automated Testing
+10/12/2018 @ [Baltimore Drupal Camp](https://www.bmoredrupal.com/2018-baltimore-drupalcamp/sessions/user-acceptance-testing-automated-testing)
+
+Slides are [here](https://stephencross.github.io/uat-and-behat)
+
+---
+
 #### UAT and Behat - Lightening Talk
 9/4/2018 @ Boston Drupal Group
 [Presenation as pdf](/files/UATandBEHAT-090418.pdf)
+
 
 Useful Behat references:
 
