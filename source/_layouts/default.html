@@ -18,6 +18,7 @@
 
     <!-- Custom styles for this template -->
     <link href="{{ site.url }}/css/blog-home.css" rel="stylesheet">
+    <link href="https://micro.blog/stephencross" rel="me" />
     {% block head_styles %}
     {% endblock %}
     {% block head_scripts %}
@@ -43,10 +44,14 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/about">About</a>
                 </li>
-                <!--
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Resources</a>
+                    <a class="nav-link" href="/resources">Resources</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://micro.stephencross.com">Microblog</a>
+                </li>
+
+                <!--
                 <li class="nav-item">
                     <a class="nav-link" href="#">Microblog</a>
                 </li>
@@ -96,9 +101,30 @@
 
             <!-- Side Widget -->
             <div class="card my-4">
+                <h5 class="card-header">Microblog</h5>
+                <div class="card-body">
+                    <script type="text/javascript" src="https://micro.blog/sidebar.js?username=stephencross&count=3"></script>
+                    <hr>
+                    <p><a href="http://micro.stephencross.com">View Full Microblog</a></p>
+                </div>
+            </div>
+
+            <div class="card my-4">
+                <h5 class="card-header">NEDCamp</h5>
+                <div class="card-body">
+                    <a href="http://www.nedcamp.org">New England Drupal Camp</a> is on November 16 & 17. 2018 at Rhode Island College.
+                </div>
+            </div>
+            <div class="card my-4">
+                <h5 class="card-header">Talking Drupal</h5>
+                <div class="card-body">
+                    A <a href="http://www.talkingdrupal.com">podcast</a> about web design and development by a group a guys with one thing in common, they love Drupal.
+                </div>
+            </div>
+            <div class="card my-4">
                 <h5 class="card-header">This Website</h5>
                 <div class="card-body">
-                    This website is an experiment.  It's built with <a href="http://www.sculpin.io">Sculpin</a>, which is a static site generator written in PHP. It converts Markdown files, Twig templates and standard HTML into a static HTML site that can be easily deployed.  <a href="/blog/2018/08/13/static-wesbite-with-sculpin">Learn more</a> about this website build.
+                    This website is an experiment.  It's built with <a href="http://www.sculpin.io">Sculpin</a>, which is a static site generator written in PHP. It converts Markdown files, Twig templates and standard HTML into a static HTML site that can be easily deployed.  <a href="/blog/2018/08/15/static-wesbite-with-sculpin">Learn more</a> about this website build.
                 </div>
             </div>
 

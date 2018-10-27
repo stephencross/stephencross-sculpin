@@ -13,3 +13,18 @@ body {
     padding-top: 56px;
   }
 }
+
+.microblog_time {
+  text-align: right;
+  margin-bottom: 1em;
+
+}
+
+.microblog_text p {
+  margin-bottom: 0px;
+}
+
+.microblog_text p img {
+  width: 100%;
+  height: auto;
+}
