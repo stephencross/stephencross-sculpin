@@ -12,7 +12,7 @@ title: Resources
 ## Upcoming Presentations
 
 #### From User Acceptance Testing to Automated Testing
-11/17/18 @ [Baltimore Drupal Camp](https://nedcamp.org/sessions/2018/user-acceptance-testing-automated-testing)
+11/17/18 @ [New England Drupal Camp](https://nedcamp.org/sessions/2018/user-acceptance-testing-automated-testing)
 
 Slides are [here](https://stephencross.github.io/uat-and-behat)
 
