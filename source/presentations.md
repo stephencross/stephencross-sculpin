@@ -25,7 +25,7 @@ Slides are [here](https://stephencross.github.io/uat-and-behat)
 
 Slides are [here](https://stephencross.github.io/uat-and-behat)
 
-#### UAT and Behat - Lightening Talk
+#### UAT and Behat - Lightning Talk
 9/4/2018 @ Boston Drupal Group
 [Presenation as pdf](/files/UATandBEHAT-090418.pdf)
 
