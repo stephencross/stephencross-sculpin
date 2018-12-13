@@ -5,27 +5,34 @@ title: Resources
 ---
 # Presentations and Training
 
-## Training
+
+
+## Upcoming Training 
+***
+1/4/2019 - [Getting Started with Drupal](https://www.thinkingdrupal.com/courses/getting-started-with-drupal)
+
+## Upcoming Presentations
+***
+
+None
+
+## Past Training
+***
 
 11/16/18 NEDCamp - [Getting Started with Drupal](https://nedcamp.org/training/getting-started-drupal) 
 
-## Upcoming Presentations
+## Past Presentations
+***
 
-#### From User Acceptance Testing to Automated Testing
+**From User Acceptance Testing to Automated Testing**
+
 11/17/18 @ [New England Drupal Camp](https://nedcamp.org/sessions/2018/user-acceptance-testing-automated-testing)
 
-Slides are [here](https://stephencross.github.io/uat-and-behat)
-
-
-
-## Past Presentations
-
-#### From User Acceptance Testing to Automated Testing
 10/12/2018 @ [Baltimore Drupal Camp](https://www.bmoredrupal.com/2018-baltimore-drupalcamp/sessions/user-acceptance-testing-automated-testing)
 
 Slides are [here](https://stephencross.github.io/uat-and-behat)
 
-#### UAT and Behat - Lightning Talk
+**UAT and Behat - Lightning Talk**
 9/4/2018 @ Boston Drupal Group
 [Presenation as pdf](/files/UATandBEHAT-090418.pdf)
 
