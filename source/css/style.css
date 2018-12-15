@@ -28,3 +28,13 @@ footer.container {
 body > main.container {
     padding: 80px 15px 0; /* 80px to make the container go all the way to the bottom of the topbar */
 }
+
+.headshot {
+    float: left;
+    width: 200px;
+    border-radius: 3%;
+    -webkit-box-shadow: 5px 7px 32px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 7px 32px -8px rgba(0,0,0,0.75);
+    box-shadow: 5px 7px 32px -8px rgba(0,0,0,0.75);
+    margin-right: 2em;
+}
