@@ -11,7 +11,7 @@ primary_image_alt: Recovering Home Video
 
 I have forty-six Digital 8 tapes with home videos that cover family events from 1996 to 2005.    These tapes have been stored in a box for as many years.   I recently took on the project of moving them to a format we can enjoy.   My two challenges, how to get them off of the tapes and how to make them accessible to everyone in the family.
 
-## Capturing Video to Computer 
+## Camera to Computer 
 
 The camera used to take these videos, a Sony XXX,  is still operational.   I discovered that after purchasing a power cord from Amazon.   I then needed cabling to connect the camera to my computer.   This was hit and miss because it wasn't clear to me which cables would work.  I'm thankful Amazon has a generous return policy.  I had three cable attempts fail.  I settled on a combination of two cables that allowed me to go from a 1/4 inch camera output to composite and then composite to USB.    The composite to USB came with drivers and software to capture video on a Mac.  
 
