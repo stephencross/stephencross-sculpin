@@ -32,7 +32,7 @@ Some tapes had sixty minutes of content while others had thirty-five.   The best
 
 ## Serving Home Video
 
-I chose to serve the home videos through Plex (https://www.plex.tv/).  Plex allows you to store, manage, and stream your personal media.  I expect I will be using Plex home movies and maybe photos in the future.   Plex is an open source application that requires a central server to stream content to Plex clients.   A Plex client can be almost any device. For me it will be Apple TV, iPads, iPhones, a Roku, and Fire TVs.  Content can be streamed in and out of my home network.  With grown-up children, having remote access to the video content is important.
+I chose to serve the home videos through [Plex](https://www.plex.tv/).  Plex allows you to store, manage, and stream your personal media.  I expect I will be using Plex home movies and maybe photos in the future.   Plex is an open source application that requires a central server to stream content to Plex clients.   A Plex client can be almost any device. For me it will be Apple TV, iPads, iPhones, a Roku, and Fire TVs.  Content can be streamed in and out of my home network.  With grown-up children, having remote access to the video content is important.
 
 After a bit of research, I learned that a Raspberry Pi could be used as a server, but it may not be powerful enough.  Since I had a Pi 3, I decided to give it a try.  Comfortable with Linux and the command line, I had a Plex server running on the Pi in 15 minutes using a resource like [How to set up a Raspberry Pi Plex server](https://thepi.io/how-to-set-up-a-raspberry-pi-plex-server/).  I connected a USB external drive to the Pi to store the 140GB of home videos.
 
