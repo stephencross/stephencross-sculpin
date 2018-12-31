@@ -37,11 +37,11 @@ I chose to serve the home videos through [Plex](https://www.plex.tv/).  Plex all
 
 After a bit of research, I learned that a Raspberry Pi could be used as a server, but it may not be powerful enough.  Since I had a Pi 3, I decided to give it a try.  Comfortable with Linux and the command line, I had a Plex server running on the Pi in 15 minutes using a resource like [How to set up a Raspberry Pi Plex server](https://thepi.io/how-to-set-up-a-raspberry-pi-plex-server/).  I connected a USB external drive to the Pi to store the 140GB of home videos.
 
-It worked!    The quality of the video is fantastic.   When streaming a 30-minute video from a device, it will stop a few times and buffer.   A "your server is not powerful enough..." type message will also appear, but it works.
+It worked!    The quality of the video is fantastic.   When streaming a 30-minute video from a device, it will stop a few times and buffer.   A "your server is not powerful enough..." type message will also appear, but it works. (See Update 12-31-18 below)
 
 ## Next Steps
 
-**Plex Server Upgrade** - My next project is to upgrade the $35 Raspberry Pi to a more powerful single board computer (SBC).    I'm looking at a RockPro64 or NanoPC T4 with 250GB m.2 storage.   I think this will deliver my minimal needs and not break the bank.    And more importantly, it's a fun tech project.  Stay tuned. 
+**Plex Server Upgrade** - My next project is to upgrade the $35 Raspberry Pi to a more powerful single board computer (SBC).    I'm looking at a RockPro64 or NanoPC T4 with 250GB m.2 storage.   I think this will deliver my minimal needs and not break the bank.    And more importantly, it's a fun tech project.  Stay tuned.  (See Update 12-31-18 below)
 
 **Video Editing** - I discovered that the 19-year-old video labeled as Christmas 1999, was really four events starting in December, 1999 and ending in July, 2000.   Now that I have the videos on my computer, I'll be breaking them into smaller videos.  No commitment on when this will be complete. 
 
